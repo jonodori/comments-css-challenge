@@ -40,8 +40,11 @@ border-radius: nullpx;
 }
 
 .comment-box {
-    color: #67727E;
-    flex-wrap: wrap;
+    width: 618px;
+    height: 72px;
+    top: 71px;
+    left: 88px;
+    color: #67727E;  
 }
 
 
@@ -57,4 +60,14 @@ border-radius: nullpx;
 
 .button {
     flex-direction: column;
+}
+
+.amy {
+
+    position: absolute;
+    left: 12.05%;
+    right: 83.56%;
+    top: 14.37%;
+    bottom: 66.47%;
+
 }
